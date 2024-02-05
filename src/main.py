@@ -1,5 +1,5 @@
 import api.v1
-import version as vs
+import api.v1.version as vs
 
 import sys
 import tkinter as tk

@@ -1,2 +1,2 @@
 import api.v1 as api
-import version
+from . import version
