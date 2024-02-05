@@ -1,5 +1,5 @@
 import tkinter as tk
-import version as vs
+from . import version as vs
 
 class UiClass:
     def __init__(self) -> None:
